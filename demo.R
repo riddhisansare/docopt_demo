@@ -3,7 +3,7 @@
 # date: 2021-11-19
 
 "This script prints out docopt args.
-Usage: demo.R <arg1> --arg2=<arg2> [--arg3=<arg3>]
+Usage: demo.R <arg1> --arg2=<arg2> [--arg3=<arg3>] [<arg4>]
 
 Options:
 <arg>             Takes any value (this is a required positional argument)
